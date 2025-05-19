@@ -1,0 +1,14 @@
+{
+  "name": "rps-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server bridging WebSocket and TCP for Rock Paper Scissors game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
